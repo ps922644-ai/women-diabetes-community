@@ -1,6 +1,0 @@
-{
-  "name": "صحة المرأة والسكري",
-  "description": "مجتمع داعم للنساء المصابات بالسكري: معلومات موثوقة، برامج دعم وتغذية، ونصائح عملية للعناية اليومية.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
